@@ -27,7 +27,7 @@ That drive is leading me to build real, hands-on experience in SOC alert triage,
 
 
 
-## Certifications
+## Certificates
 
 <div>
 <img src="https://github.com/TeeLaReina/TeeLaReina/blob/main/badges%20and%20images/certified-in-cybersecurity-cc-signatures-badge.png" />
