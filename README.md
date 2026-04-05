@@ -13,7 +13,7 @@ That drive is leading me to build real, hands-on experience in SOC alert triage,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM & Monitoring,Network Security & Analysis, Threat Detection & Response   | <a href="https://google.com">End-to-End SOC Lab Simulation using Splunk, pfSense and Virtual Machines
+| SIEM & Monitoring,Network Security & Analysis, Threat Detection & Response   | <a href="https://github.com/TeeLaReina/End-to-End-SOC-Lab-Simulation-using-Splunk-pfSense-and-Virtual-Machines/tree/main">End-to-End SOC Lab Simulation using Splunk, pfSense and Virtual Machines
 </a>|
 
 
@@ -36,7 +36,7 @@ That drive is leading me to build real, hands-on experience in SOC alert triage,
 </div>
 
 ## Projects
-- End-to-End SOC Lab Simulation using Splunk, pfSense and Virtual Machines
+- <a href="https://github.com/TeeLaReina/End-to-End-SOC-Lab-Simulation-using-Splunk-pfSense-and-Virtual-Machines/tree/main">End-to-End SOC Lab Simulation using Splunk, pfSense and Virtual Machines</a>
 
 
 
