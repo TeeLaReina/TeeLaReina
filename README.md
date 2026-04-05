@@ -30,14 +30,13 @@ That drive is leading me to build real, hands-on experience in SOC alert triage,
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-ISC2_CC-005073?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<img src="https://github.com/TeeLaReina/TeeLaReina/blob/main/badges%20and%20images/certified-in-cybersecurity-cc-signatures-badge.png" />
+<img src="https://github.com/TeeLaReina/TeeLaReina/blob/main/badges%20and%20images/introduction-to-cybersecurity-signaturtes-badge.png" />
+<img src="https://github.com/TeeLaReina/TeeLaReina/blob/main/badges%20and%20images/networking-basics-signatures-badge.png" />
 </div>
 
 ## Projects
 - <a href="https://github.com/TeeLaReina/End-to-End-SOC-Lab-Simulation-using-Splunk-pfSense-and-Virtual-Machines/tree/main">End-to-End SOC Lab Simulation using Splunk, pfSense and Virtual Machines</a>
-
 
 
 
