@@ -1,5 +1,5 @@
 ## Hello, I'm Duze Yetunde, mostly referred to as TeeLaReina or you can call me Tee for short.
-<a href="https://linkedin.com](https://www.linkedin.com/in/yetunde-duze?originalSubdomain=ng"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yetunde-duze/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Who are you hiring?
 
