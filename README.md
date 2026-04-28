@@ -3,7 +3,7 @@
 
 ## Who are you hiring?
 
-I've always loved puzzles and challenges whilst growing up and to me, cybersecurity is less of a job and more of a puzzle. Human interaction is like a puzzle, a trail of activity, a pattern and you can say cybersecurity is the discovery and understanding of those patterns that let you peek into an individual's mind. How they think, how they operate. Some people have good intentions; others don’t, but whatever the intentions, from my end of the screen I get to dive in, troubleshoot those patterns as threats, and help protect more people and assets.  
+I've always loved puzzles and challenges while growing up, and to me, cybersecurity is less of a job and more of a puzzle. Human interaction is like a puzzle, a trail of activity, a pattern, and you can say cybersecurity is the discovery and understanding of those patterns that let you peek into an individual's mind. How they think, how they operate. Some people have good intentions; others don’t, but whatever the intentions, from my end of the screen, I get to dive in, troubleshoot those patterns as threats, and help protect more people and assets.  
 
 ## Objective
 That drive is leading me to build real, hands-on experience in SOC alert triage, Splunk SIEM deployment, network traffic analysis, phishing investigations, and incident response workflows. I’m actively creating a functional home SOC lab so I can contribute meaningfully from day one as a SOC Level 1 Analyst. I intend to bring a genuine problem-solving mindset and a real willingness to learn and contribute right away as a SOC Level 1 Analyst.
@@ -15,6 +15,7 @@ That drive is leading me to build real, hands-on experience in SOC alert triage,
 |-----------------------------------------------|----------------------------|
 | SIEM & Monitoring,Network Security & Analysis, Threat Detection & Response   | <a href="https://github.com/TeeLaReina/End-to-End-SOC-Lab-Simulation-using-Splunk-pfSense-and-Virtual-Machines/tree/main">End-to-End SOC Lab Simulation using Splunk, pfSense and Virtual Machines
 </a>|
+| Network and Firewall Troubleshooting   | <a href="https://github.com/TeeLaReina/Splunk-Web-Access-Issue-Troubleshooting/blob/main/README.md">Splunk Web Access Issue – Troubleshooting & Resolution (pfSense + VirtualBox SOC Lab)</a>|
 
 
 ## Tools and Platforms
@@ -37,6 +38,9 @@ That drive is leading me to build real, hands-on experience in SOC alert triage,
 
 ## Projects
 - <a href="https://github.com/TeeLaReina/End-to-End-SOC-Lab-Simulation-using-Splunk-pfSense-and-Virtual-Machines/tree/main">End-to-End SOC Lab Simulation using Splunk, pfSense and Virtual Machines</a>
+
+## Sub Projects
+- <a href="https://github.com/TeeLaReina/Splunk-Web-Access-Issue-Troubleshooting/blob/main/README.md">Splunk Web Access Issue - Troubleshooting & Resolution (pfSense + VirtualBox SOC Lab)</a>
 
 
 
